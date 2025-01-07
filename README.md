@@ -15,7 +15,6 @@ Instalação:
 Clone este repositório para o seu ambiente local usando:
 
 git clone https://github.com/junior-rod/ap1ps.git
-cd sistema-contador
 
 Instale as dependências do projeto:
 
