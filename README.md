@@ -11,7 +11,7 @@ Requisitos
 Node.js instalado
 NPM (Node Package Manager)
 
-Instalação
+Instalação:
 Clone este repositório para o seu ambiente local usando:
 
 git clone https://github.com/seu-usuario/sistema-contador.git
@@ -20,8 +20,8 @@ cd sistema-contador
 Instale as dependências do projeto:
 
 npm install
-Uso
 
+Uso:
 Inicie o servidor com o seguinte comando:
 
 node server.js
